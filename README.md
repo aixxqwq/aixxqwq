@@ -20,11 +20,11 @@
 - 🎀 Designing interfaces and taking projects from the first sketch to a working product
 - 🪄 Using **AI tools** to learn faster and build prototypes quicker
 - ✨ Taking part in **hackathons** and building projects with a team under tight deadlines
-- 🦋 Building my own startup, **Bilim Buddy**
+- 🦋 Building my own startup, **Bilim Buddy** (MVP)
 
-## 🌷 My Startup
+## 🌷 My Startup (MVP)
 
-**[Bilim Buddy](https://bilim-buddy.onrender.com/)** is a study app with a virtual pet: the more you study, the better your pet does. The idea is to make studying a habit you actually want to keep.
+**[Bilim Buddy](https://bilim-buddy.onrender.com/)** is a working MVP of a study app with a virtual pet: the more you study, the better your pet does. The idea is to make studying a habit you actually want to keep.
 
 ## 💕 Tech Stack
 
@@ -51,13 +51,13 @@
 ## 🌺 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aixxqwq&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+  <img src="https://ghchart.rshah.org/ff8fb8/aixxqwq" alt="Contribution graph" width="100%"/>
 </p>
 
 ## 💭 Current Focus
 
 ```text
-Startup            Bilim Buddy
+Startup            Bilim Buddy (MVP)
 Hackathons         Building fast with a team
 Development        Python · JavaScript · SQL
 Design             UI/UX for web projects
